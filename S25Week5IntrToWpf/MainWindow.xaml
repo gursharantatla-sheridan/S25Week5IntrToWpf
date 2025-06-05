@@ -10,6 +10,7 @@
         <Button x:Name="btnOk" Content="OK" HorizontalAlignment="Left" Margin="313,138,0,0" VerticalAlignment="Top" Height="38" Width="87" Click="btnOk_Click"/>
         <TextBox x:Name="txtName" HorizontalAlignment="Left" Margin="172,148,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120" GotFocus="txtName_GotFocus" LostFocus="txtName_LostFocus" />
         <Label Content="Enter your name" HorizontalAlignment="Left" Margin="70,144,0,0" VerticalAlignment="Top"/>
+        <Button x:Name="btnGridExample" Content="Grid Example" HorizontalAlignment="Left" Margin="521,217,0,0" VerticalAlignment="Top" Height="81" Width="136" Click="btnGridExample_Click"/>
 
     </Grid>
 </Window>

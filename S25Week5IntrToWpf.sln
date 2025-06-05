@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36202.13 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "S25Week5IntrToWpf", "S25Week5IntrToWpf\S25Week5IntrToWpf.csproj", "{8BB0BBF0-B710-47BD-93D2-EA508B743FFE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8BB0BBF0-B710-47BD-93D2-EA508B743FFE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8BB0BBF0-B710-47BD-93D2-EA508B743FFE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8BB0BBF0-B710-47BD-93D2-EA508B743FFE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8BB0BBF0-B710-47BD-93D2-EA508B743FFE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {986ABF83-355E-4888-BE9D-E563501059C4}
+	EndGlobalSection
+EndGlobal

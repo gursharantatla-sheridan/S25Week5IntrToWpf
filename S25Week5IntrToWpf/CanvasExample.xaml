@@ -1,0 +1,15 @@
+﻿<Window x:Class="S25Week5IntrToWpf.CanvasExample"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:S25Week5IntrToWpf"
+        mc:Ignorable="d"
+        Title="CanvasExample" Height="450" Width="800">
+    <Canvas>
+        <Label Content="Label" Canvas.Left="102" Canvas.Top="106"/>
+        <TextBox Canvas.Left="145" TextWrapping="Wrap" Text="TextBox" Canvas.Top="110" Width="120"/>
+        <Button Content="Button" Canvas.Left="281" Canvas.Top="109"/>
+
+    </Canvas>
+</Window>

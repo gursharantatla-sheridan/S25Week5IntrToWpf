@@ -31,5 +31,15 @@ namespace S25Week5IntrToWpf
             else
                 MessageBox.Show("NO clicked");
         }
+
+        private void txtName_GotFocus(object sender, RoutedEventArgs e)
+        {
+            txtName.Background = Brushes.LightBlue;
+        }
+
+        private void txtName_LostFocus(object sender, RoutedEventArgs e)
+        {
+            txtName.Background = Brushes.White;
+        }
     }
 }
